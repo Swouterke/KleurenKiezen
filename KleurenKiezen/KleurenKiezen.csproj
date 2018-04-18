@@ -60,6 +60,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Kleur.cs" />
     <Compile Include="KleurenKiezenWindow.xaml.cs">
       <DependentUpon>KleurenKiezenWindow.xaml</DependentUpon>
     </Compile>
